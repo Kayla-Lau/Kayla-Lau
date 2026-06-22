@@ -1,4 +1,4 @@
-## # Ying Liu
+## Ying Liu
 
 Undergraduate student in Information Management and Information Systems at Xi’an Jiaotong-Liverpool University, with interests in financial analytics, data science, and the application of artificial intelligence in finance.
 
